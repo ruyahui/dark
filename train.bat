@@ -1,0 +1,1 @@
+python flow --model cfg/tiny-yolo-voc-br.cfg --train --dataset images --annotation annotations
